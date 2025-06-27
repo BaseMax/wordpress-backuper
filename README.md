@@ -32,6 +32,14 @@ sudo apt install zip findutils
 
 ## 🚀 Usage
 
+### Quickly
+
+```bash
+curl -L -o wordpress-backuper.sh https://github.com/BaseMax/wordpress-backuper/raw/refs/heads/main/wordpress-backuper.sh
+chmod +x wordpress-backuper.sh
+./wordpress-backuper.sh
+```
+
 ### Clone the repo:
 
 ```bash
