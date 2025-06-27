@@ -1,4 +1,4 @@
-# 📦 Wordpress-Backuper
+# 📦 Wordpress Backuper
 
 **Wordpress-Backuper** is a shell script by [Max Base](https://github.com/BaseMax) designed to create structured, compressed backups of a WordPress site-specifically focusing on core files, `wp-content`, and `uploads` by year.
 
